@@ -1,3 +1,14 @@
+# Project akhir MDS
+Topik **Profile Responden Survey dan Aktivitasnya**
+
+## Kelompok 6
+1. G1501221024	Tahira Fulazzaky
+2. G1501221032	Diaztri Hazam
+3. G1501222046	Setyo Wahyudi
+4. G1501222059	Intan Juliana Panjaitan
+
+
+
 ## Create Table yo_linkshare
 
 ``` sql
