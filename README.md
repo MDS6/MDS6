@@ -1,15 +1,65 @@
 # Project akhir MDS
+
 Topik `Profile Responden Survey dan Aktivitasnya`
 
 ## Kelompok 6
-1. G1501221024	Tahira Fulazzaky
-2. G1501221032	Diaztri Hazam
-3. G1501222046	Setyo Wahyudi
-4. G1501222059	Intan Juliana Panjaitan
 
+    1.  G1501221024 Tahira Fulazzaky
+    2.  G1501221032 Diaztri Hazam
+    3.  G1501222046 Setyo Wahyudi
+    4.  G1501222059 Intan Juliana Panjaitan
 
+## Role Posisi
 
-## Create Table yo_linkshare
+    Data Manager      : Setyo Wahyudi
+    Shiny Developer
+      Front-end       : 1. Setyo
+                        2. Fula
+      Back-end        : 1. Diaztri Hazam
+                        2. Fula
+    Technical Writer  : Intan Juliana Panjaitan
+
+## Deskripsi Data
+
+### Tabel yo_user
+
+Tabel yo_user merupakan tabel yang memuat data demografi panelis
+
+### Tabel yo_survey
+
+Tabel yo_survey merupakan tabel yang memuat data survey sederhana (polling) yang dibuat oleh panelis
+
+### Tabel yo_survey_answer
+
+Tabel yo_survey_answer merupakan tabel yang memuat data hasil isian (respon) untuk survey sederhana (polling) yang dibuat oleh panelis
+
+### Tabel yo_survey_new
+
+Tabel yo_survey_new merupakan tabel yang memuat daftar survey yang berbasis project (client)
+
+### Tabel yo_survey_data_user
+
+Tabel yo_survey_data_user merupakan tabel yang memuat daftar panel yang sudah mengikuti/join pada survey yang berbasis project (client)
+
+### Tabel yo_region_province
+
+Tabel yo_region_province merupakan tabel yang berisikan seluruh daftar provinsi yang ada di Indonesia
+
+### Tabel yo_region_city
+
+Tabel yo_region_city merupakan tabel yang berisikan seluruh daftar nama kabupaten / kota disetiap provinsi yang ada di Indonesia
+
+### Tabel yo_linkshare
+
+Tabel yo_linkshare merupakan tabel yang berisikan informasi metode perekrutan panelis
+
+### Tabel yo_user_point
+
+Tabel yo_user_point merupakan tabel yang berisikan informasi jumlah point yang dimiliki dari masing-masing panelis
+
+## QUERY
+
+### Create Table yo_linkshare
 
 ```sql
 CREATE TABLE IF NOT EXISTS public.yo_linkshare
@@ -24,7 +74,7 @@ CREATE TABLE IF NOT EXISTS public.yo_linkshare
 );
 ```
 
-## Create Table yo_region_city
+### Create Table yo_region_city
 
 ```sql
 CREATE TABLE IF NOT EXISTS public.yo_region_city
@@ -40,7 +90,7 @@ CREATE TABLE IF NOT EXISTS public.yo_region_city
 );
 ```
 
-## Create Table yo_region_province
+### Create Table yo_region_province
 
 ```sql
 CREATE TABLE IF NOT EXISTS public.yo_region_province 
@@ -52,7 +102,7 @@ CREATE TABLE IF NOT EXISTS public.yo_region_province
 );
 ```
 
-## Create Table yo_survey
+### Create Table yo_survey
 
 ```sql
 CREATE TABLE IF NOT EXISTS public.yo_survey 
@@ -74,7 +124,7 @@ CREATE TABLE IF NOT EXISTS public.yo_survey
 );
 ```
 
-## Create Table yo_survey_answer
+### Create Table yo_survey_answer
 
 ```sql
 CREATE TABLE IF NOT EXISTS public.yo_survey_answer
@@ -95,7 +145,7 @@ CREATE TABLE IF NOT EXISTS public.yo_survey_answer
 );
 ```
 
-## Create Table yo_survey_data_user
+### Create Table yo_survey_data_user
 
 ```sql
 CREATE TABLE IF NOT EXISTS public.yo_survey_data_user
@@ -118,7 +168,7 @@ CREATE TABLE IF NOT EXISTS public.yo_survey_data_user
 );
 ```
 
-## Create Table yo_survey_new
+### Create Table yo_survey_new
 
 ```sql
 CREATE TABLE IF NOT EXISTS public.yo_survey_new
@@ -137,7 +187,7 @@ CREATE TABLE IF NOT EXISTS public.yo_survey_new
 );
 ```
 
-## Create Table yo_survey_new
+### Create Table yo_survey_new
 
 ```sql
 CREATE TABLE IF NOT EXISTS public.yo_user
@@ -167,7 +217,8 @@ CREATE TABLE IF NOT EXISTS public.yo_user
         ON DELETE NO ACTION
 );
 ```
-## Create Table yo_user_point
+
+### Create Table yo_user_point
 
 ```sql
 CREATE TABLE IF NOT EXISTS public.yo_user_point
@@ -183,3 +234,10 @@ CREATE TABLE IF NOT EXISTS public.yo_user_point
 );
 ```
 
+\`\`\`
+
+## Bagan ERD
+
+### ![](images/tugas%20rev.pgerd.png)
+
+\`\`\`\`
