@@ -13,7 +13,7 @@ Topik `Profile Responden Survey dan Aktivitasnya`
 
     Data Manager      : Setyo Wahyudi
     Shiny Developer
-      Front-end       : 1. Setyo
+      Front-end       : 1. Setyo Wahyudi
                         2. Tahira Fulazzaky
       Back-end        : 1. Diaztri Hazam
                         2. Tahira Fulazzaky
