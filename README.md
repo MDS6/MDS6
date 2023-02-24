@@ -14,9 +14,9 @@ Topik `Profile Responden Survey dan Aktivitasnya`
     Data Manager      : Setyo Wahyudi
     Shiny Developer
       Front-end       : 1. Setyo
-                        2. Fula
+                        2. Tahira Fulazzaky
       Back-end        : 1. Diaztri Hazam
-                        2. Fula
+                        2. Tahira Fulazzaky
     Technical Writer  : Intan Juliana Panjaitan
 
 ## Deskripsi Data
