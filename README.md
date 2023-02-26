@@ -15,47 +15,50 @@ Topik `Profile Responden Survey dan Aktivitasnya`
     Shiny Developer
       Front-end       : 1. Setyo Wahyudi
                         2. Tahira Fulazzaky
+                        3. Intan Juliana Panjaitan
       Back-end        : 1. Diaztri Hazam
                         2. Tahira Fulazzaky
     Technical Writer  : Intan Juliana Panjaitan
 
 ## Deskripsi Data
 
-### Tabel yo_user
+### Tabel *yo_user*
 
-Tabel yo_user merupakan tabel yang memuat data demografi panelis
+Tabel *yo_user* merupakan tabel yang memuat data demografi panelis
 
-### Tabel yo_survey
+\|:***\|:***\|:\_\_\_\|
 
-Tabel yo_survey merupakan tabel yang memuat data survey sederhana (polling) yang dibuat oleh panelis
+### Tabel *yo_survey*
 
-### Tabel yo_survey_answer
+Tabel *yo_survey* merupakan tabel yang memuat data survey sederhana (polling) yang dibuat oleh panelis
 
-Tabel yo_survey_answer merupakan tabel yang memuat data hasil isian (respon) untuk survey sederhana (polling) yang dibuat oleh panelis
+### Tabel *yo_survey_answer*
 
-### Tabel yo_survey_new
+Tabel *yo_survey_answer* merupakan tabel yang memuat data hasil isian (respon) untuk survey sederhana (polling) yang dibuat oleh panelis
 
-Tabel yo_survey_new merupakan tabel yang memuat daftar survey yang berbasis project (client)
+### Tabel *yo_survey_new*
 
-### Tabel yo_survey_data_user
+Tabel *yo_survey_new* merupakan tabel yang memuat daftar survey yang berbasis project (client)
 
-Tabel yo_survey_data_user merupakan tabel yang memuat daftar panel yang sudah mengikuti/join pada survey yang berbasis project (client)
+### Tabel *yo_survey_data_user*
 
-### Tabel yo_region_province
+Tabel *yo_survey_data_user* merupakan tabel yang memuat daftar panel yang sudah mengikuti/join pada survey yang berbasis project (client)
 
-Tabel yo_region_province merupakan tabel yang berisikan seluruh daftar provinsi yang ada di Indonesia
+### Tabel *yo_region_province*
 
-### Tabel yo_region_city
+Tabel *yo_region_province* merupakan tabel yang berisikan seluruh daftar provinsi yang ada di Indonesia
 
-Tabel yo_region_city merupakan tabel yang berisikan seluruh daftar nama kabupaten / kota disetiap provinsi yang ada di Indonesia
+### Tabel *yo_region_city*
 
-### Tabel yo_linkshare
+Tabel *yo_region_city* merupakan tabel yang berisikan seluruh daftar nama kabupaten / kota disetiap provinsi yang ada di Indonesia
 
-Tabel yo_linkshare merupakan tabel yang berisikan informasi metode perekrutan panelis
+### Tabel *yo_linkshare*
 
-### Tabel yo_user_point
+Tabel *yo_linkshare* merupakan tabel yang berisikan informasi metode perekrutan panelis
 
-Tabel yo_user_point merupakan tabel yang berisikan informasi jumlah point yang dimiliki dari masing-masing panelis
+### Tabel *yo_user_point*
+
+Tabel *yo_user_point* merupakan tabel yang berisikan informasi jumlah point yang dimiliki dari masing-masing panelis
 
 ## QUERY
 
@@ -234,10 +237,6 @@ CREATE TABLE IF NOT EXISTS public.yo_user_point
 );
 ```
 
-\`\`\`
-
 ## Bagan ERD
 
-### ![](images/tugas%20rev.pgerd.png)
-
-\`\`\`\`
+![](tugas%20rev.pgerd.png)
