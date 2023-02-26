@@ -255,7 +255,7 @@ CREATE TABLE IF NOT EXISTS public.yo_survey_new
 );
 ```
 
-### Create Table yo_survey_new
+### Create Table yo_user
 
 ```sql
 CREATE TABLE IF NOT EXISTS public.yo_user
