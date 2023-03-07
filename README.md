@@ -1,6 +1,22 @@
+
+
+
 # Project akhir MDS
 
-Topik `Profile Responden Survey dan Aktivitasnya`
+<div align="center">
+
+![Logo](https://via.placeholder.com/150x150)
+# Profile Responden Survey dan Aktivitasnya
+
+[Role Posisi](https://github.com/MDS6/MDS6.git)
+•
+[Deskripsi Data](https://github.com/MDS6/MDS6.git)
+•
+[ QUERY](https://github.com/MDS6/MDS6.git)
+•
+[Skema Diagram](https://github.com/MDS6/MDS6#bagan-erd)
+
+</div>
 
 ## Kelompok 6
 
