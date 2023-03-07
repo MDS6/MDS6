@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Logo](https://via.placeholder.com/150x150)
+![](Logo-MDS.png)
 # Profile Responden Survey dan Aktivitasnya
 
 [Role Posisi](#man_technologist-Role-Posisi)
