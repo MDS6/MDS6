@@ -36,7 +36,7 @@
                         3. Intan Juliana Panjaitan
       Back-end        : 1. Diaztri Hazam
                         2. Tahira Fulazzaky
-    Technical Writter : Intan Juliana Panjaitan
+    Technical Writer : Intan Juliana Panjaitan
     
 ## :round_pushpin: Menu 
 - [Deskripsi Data](#bookmark_tabs-Deskripsi-Data)
