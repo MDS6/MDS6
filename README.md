@@ -36,7 +36,7 @@
                         2. Tahira Fulazzaky
     Technical Writer  : Intan Juliana Panjaitan
     
-## :search: Menu 
+## :round_pushpin: Menu 
 - [Deskripsi Data](#bookmark_tabs-Deskripsi-Data)
     - [Tabel yo_user](#1-Tabel-yo_user)
     - [Tabel yo_survey](#2-Tabel-yo_survey)
@@ -55,8 +55,8 @@
     - [Create Table yo_survey_answer](#Create-Table-yo_survey_answer)
     - [Create Table yo_survey_data_user](#Create-Table-yo_survey_data_user)
     - [Create Table yo_survey_new](#Create-Table-yo_survey_new)
-    - [Create Table yo_user](#Create-Table yo_user)
-    - [Create Table yo_user_point](#Create-Table yo_user_point)
+    - [Create Table yo_user](#Create-Table-yo_user)
+    - [Create Table yo_user_point](#Create-Table-yo_user_point)
     
 ## :bookmark_tabs: Deskripsi Data
 
