@@ -10,11 +10,11 @@
 
 [Role Posisi](#man_technologist-Role-Posisi)
 •
-[Deskripsi Data](https://github.com/MDS6/MDS6.git)
+[Deskripsi Data](#bookmark_tabs-Data)
 •
-[ QUERY](https://github.com/MDS6/MDS6.git)
+[ QUERY](#floppy_disk-QUERY)
 •
-[Skema Diagram](https://github.com/MDS6/MDS6#bagan-erd)
+[Skema Diagram](#repeat-Skema-Diagram)
 
 </div>
 
@@ -35,8 +35,18 @@
       Back-end        : 1. Diaztri Hazam
                         2. Tahira Fulazzaky
     Technical Writer  : Intan Juliana Panjaitan
-
-## 📄 Deskripsi Data
+    
+## :rotating_light: Menu 
+- [Deskripsi Data](#bookmark_tabs-Deskripsi Data)
+    - [Tabel yo_user](#1-Tabel-yo_user)
+    - [Tabel yo_survey](#2-Tabel-yo_survey)
+    - [Tabel yo_survey_answer](#3-Tabel-yo_survey_answer)
+    - [Tabel yo_survey_new](#4-Tabel-yo_survey_new)
+    - [Tabel yo_survey_data_user](#5-Tabel-yo_survey_data_user)
+    - [Tabel yo_region_province](#Tabel-yo_region_province)
+    - [Tabel yo_region_city](#7-Tabel-yo_region_city)
+    
+## :bookmark_tabs: Deskripsi Data
 
 #### 1. Tabel *yo_user*
 
@@ -148,7 +158,7 @@ Tabel *yo_user_point* merupakan tabel yang berisikan informasi jumlah point yang
 | point         | integer               | Poin yang diperoleh hingga saat ini |
 | modified_date | timestamp             | Tanggal poin terakhir yang diterima |
 
-## 💾 QUERY
+## :floppy_disk: QUERY
 
 ### Create Table yo_linkshare
 
@@ -318,10 +328,10 @@ CREATE TABLE IF NOT EXISTS public.yo_user_point
 );
 ```
 
-## 🔁 Skema Diagram
+## :repeat: Skema Diagram
 
 ![](Skema%20Diagram%20-%20Full.png)
 
-## 🚨 Bagan ERD
+## :rotating_light: Bagan ERD
 
 ![](tugas%20rev2.png)
