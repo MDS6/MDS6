@@ -25,7 +25,7 @@
     3.  G1501222046 Setyo Wahyudi
     4.  G1501222059 Intan Juliana Panjaitan
 
-## Role Posisi
+## 👨‍💻 Role Posisi
 
     Data Manager      : Setyo Wahyudi
     Shiny Developer
@@ -36,7 +36,7 @@
                         2. Tahira Fulazzaky
     Technical Writer  : Intan Juliana Panjaitan
 
-## Deskripsi Data
+## 📄 Deskripsi Data
 
 #### 1. Tabel *yo_user*
 
@@ -148,7 +148,7 @@ Tabel *yo_user_point* merupakan tabel yang berisikan informasi jumlah point yang
 | point         | integer               | Poin yang diperoleh hingga saat ini |
 | modified_date | timestamp             | Tanggal poin terakhir yang diterima |
 
-## QUERY
+## 💾 QUERY
 
 ### Create Table yo_linkshare
 
@@ -318,10 +318,10 @@ CREATE TABLE IF NOT EXISTS public.yo_user_point
 );
 ```
 
-## Skema Diagram
+## 🔁 Skema Diagram
 
 ![](Skema%20Diagram%20-%20Full.png)
 
-## Bagan ERD
+## 🚨 Bagan ERD
 
 ![](tugas%20rev2.png)
