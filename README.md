@@ -58,7 +58,7 @@
     - [Create Table yo_user](#Create-Table-yo_user)
     - [Create Table yo_user_point](#Create-Table-yo_user_point)
 - [Skema Diagram](#repeat-Skema-Diagram)
-- [Bagan ERD](#:rotating_light-Bagan-ERD)
+- [Bagan ERD](#rotating_light-Bagan-ERD)
     
 ## :bookmark_tabs: Deskripsi Data
 
