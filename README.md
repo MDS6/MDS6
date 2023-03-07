@@ -8,7 +8,7 @@
 ![Logo](https://via.placeholder.com/150x150)
 # Profile Responden Survey dan Aktivitasnya
 
-[Role Posisi](https://github.com/MDS6/MDS6.git)
+[Role Posisi](#man_technologist-Role-Posisi)
 •
 [Deskripsi Data](https://github.com/MDS6/MDS6.git)
 •
@@ -25,7 +25,7 @@
     3.  G1501222046 Setyo Wahyudi
     4.  G1501222059 Intan Juliana Panjaitan
 
-## 👨‍💻 Role Posisi
+## :man_technologist: Role Posisi
 
     Data Manager      : Setyo Wahyudi
     Shiny Developer
