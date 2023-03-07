@@ -10,11 +10,13 @@
 
 [Role Posisi](#man_technologist-Role-Posisi)
 •
-[Deskripsi Data](#bookmark_tabs-Data)
+[Deskripsi Data](#bookmark_tabs-Deskripsi-Data)
 •
 [ QUERY](#floppy_disk-QUERY)
 •
 [Skema Diagram](#repeat-Skema-Diagram)
+•
+[Bagan ERD](#rotating_light-Bagan-ERD)
 
 </div>
 
