@@ -10,13 +10,14 @@
 
 [Tentang](#scroll-Tentang)
 •
+[Screenshot](#rice_scene-Screenshot)
+•
 [Demo](#dvd-Demo)
 •
 [Skema Diagram](#repeat-Skema-Diagram)
 •
 [Bagan ERD](#rotating_light-Bagan-ERD)
-•
-[Deskripsi Data](#bookmark_tabs-Deskripsi-Data)
+
 
 
 </div>
@@ -24,16 +25,21 @@
     
 ## :round_pushpin: Menu
 - [Tentang](#scroll-Tentang)
+- [Screenshot](#rice_scene-Screenshot)
 - [Demo](#dvd-Demo)
 - [Skema Diagram](#repeat-Skema-Diagram)
 - [Bagan ERD](#rotating_light-Bagan-ERD)
 - [Deskripsi Data](#bookmark_tabs-Deskripsi-Data)
+- [Struktur Folder](#open_file_folder-Struktur-Folder)
 - [Tim Pengembang](#man_technologist-Role-Posisi)
 
 ## :scroll: Tentang
 
 Project ini merupakan tugas akhir mata kuliah STA1562 mengenai database. Database yang digunakan merupakan database Profile Responden Survey dan Aktivitasnya.
 Project ini akan memvisualisasikan profile responden dan history dari aktifitas yang sudah diikuti responden. Project ini dapat membantu user dalam menentukan profil responden seperti apa yang sesuai dengan survey yang akan berjalan, serta dapat juga dijadikan sebagai panduan user yang akan mengadakan campaign untuk meningkatkan antusiasme responden untuk mengikuti survey-survey berikutnya
+
+## :rice_scene: Screenshot
+![](Shiny.png)
 
 ## :dvd: Demo
 
@@ -331,6 +337,26 @@ CREATE TABLE IF NOT EXISTS public.yo_user_point
         ON UPDATE NO ACTION
         ON DELETE NO ACTION
 );
+```
+## :open_file_folder: Struktur Folder
+
+```
+.
+├── app           # ShinyApps
+│   ├── css
+│   │   ├── **/*.css
+│   ├── server.R
+│   └── ui.R
+├── data 
+│   ├── csv
+│   │   ├── **/*.css
+│   └── sql
+|       └── db.sql
+├── src           # Project source code
+├── doc           # Doc for the project
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ## :man_technologist: Tim Pengembang
