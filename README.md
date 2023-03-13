@@ -353,20 +353,30 @@ CREATE TABLE IF NOT EXISTS public.yo_user_point
 
 ```
 .
-├── app           # ShinyApps
-│   ├── css
-│   │   ├── **/*.css
+├── app           
+│   ├── www
+│   │   ├── Logo.png
 │   ├── server.R
-│   └── ui.R
+│   ├── ui.R
 ├── data 
-│   ├── csv
-│   │   ├── **/*.css
-│   └── sql
-|       └── db.sql
-├── src           # Project source code
-├── doc           # Doc for the project
-├── .gitignore
-├── LICENSE
+│   ├── yo_linkshare_dummy.sql
+│   ├── yo_region_city_dummy.sql
+│   ├── yo_region_province_dummy.sql
+│   ├── yo_survey_answer_dummy.sql
+│   ├── yo_survey_data_user_dummy.sql
+│   ├── yo_survey_dummy.sql
+│   ├── yo_survey_new_dummy.sql
+│   ├── yo_user_2.sql
+│   ├── yo_user_point_dummy.sql
+├── dokumen           # dokumen for the project
+│   ├── Logo.png
+│   ├── Shiny.png        # Image for ShinyApps Home
+│   ├── Skema Diagram.png
+│   ├── dokumentasi.pdf
+│   ├── tugas rev.pgerd.png
+│   ├── tugas rev2.png
+│   ├── tugas.pgerd
+├── Tugas ERD - MDS Kel. 6.Rmd
 └── README.md
 ```
 
