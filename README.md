@@ -353,12 +353,12 @@ CREATE TABLE IF NOT EXISTS public.yo_user_point
 
 ```
 .
-├── app           
+├── app                  # ShinyApps
 │   ├── www
 │   │   ├── Logo.png
 │   ├── server.R
 │   ├── ui.R
-├── data 
+├── data                # Data for the project
 │   ├── yo_linkshare_dummy.sql
 │   ├── yo_region_city_dummy.sql
 │   ├── yo_region_province_dummy.sql
@@ -368,7 +368,7 @@ CREATE TABLE IF NOT EXISTS public.yo_user_point
 │   ├── yo_survey_new_dummy.sql
 │   ├── yo_user_2.sql
 │   ├── yo_user_point_dummy.sql
-├── dokumen           # dokumen for the project
+├── dokumen              # dokumen for the project
 │   ├── Logo.png
 │   ├── Shiny.png        # Image for ShinyApps Home
 │   ├── Skema Diagram.png
