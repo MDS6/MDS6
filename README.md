@@ -14,7 +14,7 @@
 •
 [Demo](#dvd-Demo)
 •
-[Dokumentasi](#blue_book-documentation)
+[Dokumentasi](#blue_book-Dokumentasi)
 
 
 
