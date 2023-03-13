@@ -375,7 +375,6 @@ CREATE TABLE IF NOT EXISTS public.yo_user_point
 │   ├── dokumentasi.pdf
 │   ├── tugas rev.pgerd.png
 │   ├── tugas rev2.png
-│   ├── tugas.pgerd
 ├── Tugas ERD - MDS Kel. 6.Rmd
 └── README.md
 ```
