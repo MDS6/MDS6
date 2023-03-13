@@ -8,7 +8,7 @@
 ![](Logo.png)
 # Profile Responden Survey dan Aktivitasnya
 
-[Tentang](#scroll-overview)
+[Tentang](#scroll-Tentang)
 •
 [Skema Diagram](#repeat-Skema-Diagram)
 •
@@ -22,14 +22,15 @@
 
     
 ## :round_pushpin: Menu
-- [Tentang](#scroll-overview)
+- [Tentang](#scroll-Tentang)
 - [Skema Diagram](#repeat-Skema-Diagram)
 - [Bagan ERD](#rotating_light-Bagan-ERD)
 - [Deskripsi Data](#bookmark_tabs-Deskripsi-Data)
 
 ## :scroll: Tentang
 
-Deskripsi tentang projek database yang dikerjakan.
+Project ini merupakan tugas akhir mata kuliah STA1562 mengenai database. Database yang digunakan merupakan database Profile Responden Survey dan Aktivitasnya.
+Project ini akan memvisualisasikan profile responden dan history dari aktifitas yang sudah diikuti responden. Project ini dapat membantu user dalam menentukan profil responden seperti apa yang sesuai dengan survey yang akan berjalan, serta dapat juga dijadikan sebagai panduan user yang akan mengadakan campaign untuk meningkatkan antusiasme responden untuk mengikuti survey-survey berikutnya
 
 ## :dvd: Demo
 
@@ -37,7 +38,7 @@ Berikut merupakan tautan untuk mendemokan aplikasi ShinyApp
 
 | url                      |
 | ------------------------ |
-| http:                    |
+| https://diaztrihazam.shinyapps.io/profil-responden/|
 
 
 
