@@ -10,22 +10,25 @@
 
 [Tentang](#scroll-Tentang)
 •
+[Demo](#dvd-Demo)
+•
 [Skema Diagram](#repeat-Skema-Diagram)
 •
 [Bagan ERD](#rotating_light-Bagan-ERD)
 •
 [Deskripsi Data](#bookmark_tabs-Deskripsi-Data)
-•
-[Tim Pengembang](#man_technologist-Role-Posisi)
+
 
 </div>
 
     
 ## :round_pushpin: Menu
 - [Tentang](#scroll-Tentang)
+- [Demo](#dvd-Demo)
 - [Skema Diagram](#repeat-Skema-Diagram)
 - [Bagan ERD](#rotating_light-Bagan-ERD)
 - [Deskripsi Data](#bookmark_tabs-Deskripsi-Data)
+- [Tim Pengembang](#man_technologist-Role-Posisi)
 
 ## :scroll: Tentang
 
