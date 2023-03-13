@@ -14,9 +14,7 @@
 •
 [Demo](#dvd-Demo)
 •
-[Skema Diagram](#repeat-Skema-Diagram)
-•
-[Bagan ERD](#rotating_light-Bagan-ERD)
+[Dokumentasi](#blue_book-documentation)
 
 
 
@@ -27,6 +25,8 @@
 - [Tentang](#scroll-Tentang)
 - [Screenshot](#rice_scene-Screenshot)
 - [Demo](#dvd-Demo)
+- [Dokumentasi](#blue_book-documentation)
+- [Requirements](#exclamation-requirements)
 - [Skema Diagram](#repeat-Skema-Diagram)
 - [Bagan ERD](#rotating_light-Bagan-ERD)
 - [Deskripsi Data](#bookmark_tabs-Deskripsi-Data)
@@ -52,6 +52,13 @@ Berikut merupakan tautan untuk mendemokan aplikasi ShinyApp
 ## :blue_book: Dokumentasi 
 
 Dokumentasi penggunaan aplikasi database [disini](dokumentasi.pdf)
+
+## :exclamation: Requirements
+
+- R Studio
+- PostgreSQL
+- ElephantSQL
+
 
 ## :repeat: Skema Diagram
 
