@@ -27,8 +27,8 @@
 - [Demo](#dvd-Demo)
 - [Dokumentasi](#blue_book-documentation)
 - [Requirements](#exclamation-requirements)
-- [Skema Diagram](#repeat-Skema-Diagram)
-- [Bagan ERD](#rotating_light-Bagan-ERD)
+- [Skema Database](#repeat-Skema-Database)
+- [ERD](#rotating_light-ERD)
 - [Deskripsi Data](#bookmark_tabs-Deskripsi-Data)
 - [Struktur Folder](#open_file_folder-Struktur-Folder)
 - [Tim Pengembang](#man_technologist-Role-Posisi)
@@ -60,11 +60,11 @@ Dokumentasi penggunaan aplikasi database [disini](dokumentasi.pdf)
 - ElephantSQL
 
 
-## :repeat: Skema Diagram
+## :repeat: Skema Database
 
 ![](Skema%20Diagram%20-%20Full.png)
 
-## :rotating_light: Bagan ERD
+## :rotating_light: ERD
 
 ![](tugas%20rev2.png)
 
