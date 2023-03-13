@@ -5,7 +5,8 @@
 
 <div align="center">
 
-![](Logo.png)
+<img src="https://github.com/MDS6/MDS6/blob/main/dokumen/Logo.png" width="500" height="250">
+
 # Profile Responden Survey dan Aktivitasnya
 
 [Tentang](#scroll-Tentang)
@@ -39,7 +40,8 @@ Project ini merupakan tugas akhir mata kuliah STA1562 mengenai database. Databas
 Project ini akan memvisualisasikan profile responden dan history dari aktifitas yang sudah diikuti responden. Project ini dapat membantu user dalam menentukan profil responden seperti apa yang sesuai dengan survey yang akan berjalan, serta dapat juga dijadikan sebagai panduan user yang akan mengadakan campaign untuk meningkatkan antusiasme responden untuk mengikuti survey-survey berikutnya
 
 ## :rice_scene: Screenshot
-![](Shiny.png)
+<img src="https://github.com/MDS6/MDS6/blob/main/dokumen/Shiny.png" width="750">
+
 
 ## :dvd: Demo
 
@@ -51,7 +53,7 @@ Berikut merupakan tautan untuk mendemokan aplikasi ShinyApp
 
 ## :blue_book: Dokumentasi 
 
-Dokumentasi penggunaan aplikasi database [disini](dokumentasi.pdf)
+Dokumentasi penggunaan aplikasi database [disini](https://github.com/MDS6/MDS6/blob/main/dokumen/dokumentasi.pdf)
 
 ## :exclamation: Requirements
 
@@ -62,11 +64,11 @@ Dokumentasi penggunaan aplikasi database [disini](dokumentasi.pdf)
 
 ## :repeat: Skema Database
 
-![](Skema%20Diagram%20-%20Full.png)
+<img src="https://github.com/MDS6/MDS6/blob/main/dokumen/Skema%20Diagram.png" width="750">
 
 ## :rotating_light: ERD
 
-![](tugas%20rev2.png)
+<img src="https://github.com/MDS6/MDS6/blob/main/dokumen/tugas%20rev2.png" width="750">
 
 ## :bookmark_tabs: Deskripsi Data
 
