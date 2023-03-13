@@ -68,7 +68,7 @@ Dokumentasi penggunaan aplikasi database [disini](https://github.com/MDS6/MDS6/b
 
 ## :rotating_light: ERD
 
-<img src="https://github.com/MDS6/MDS6/blob/main/dokumen/tugas%20rev2.png" width="750">
+<img src="https://github.com/MDS6/MDS6/blob/main/dokumen/Responden.png" width="750">
 
 ## :bookmark_tabs: Deskripsi Data
 
