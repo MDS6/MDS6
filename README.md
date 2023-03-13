@@ -26,7 +26,7 @@
 - [Tentang](#scroll-Tentang)
 - [Screenshot](#rice_scene-Screenshot)
 - [Demo](#dvd-Demo)
-- [Dokumentasi](#blue_book-documentation)
+- [Dokumentasi](#blue_book-Dokumentasi)
 - [Requirements](#exclamation-requirements)
 - [Skema Database](#repeat-Skema-Database)
 - [ERD](#rotating_light-ERD)
