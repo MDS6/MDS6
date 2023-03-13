@@ -49,7 +49,9 @@ Berikut merupakan tautan untuk mendemokan aplikasi ShinyApp
 | ------------------------ |
 | https://diaztrihazam.shinyapps.io/profil-responden/|
 
+## :blue_book: Dokumentasi 
 
+Dokumentasi penggunaan aplikasi database [disini](dokumentasi.pdf)
 
 ## :repeat: Skema Diagram
 
