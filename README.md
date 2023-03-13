@@ -32,7 +32,7 @@
 - [ERD](#rotating_light-ERD)
 - [Deskripsi Data](#bookmark_tabs-Deskripsi-Data)
 - [Struktur Folder](#open_file_folder-Struktur-Folder)
-- [Tim Pengembang](#man_technologist-Role-Posisi)
+- [Tim Pengembang](#man_technologist-Tim-Pengembang)
 
 ## :scroll: Tentang
 
